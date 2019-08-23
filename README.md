@@ -1,16 +1,8 @@
 # Call-Sms-Bomber
 
-Programmer: Suvadip Kar
+Programmer: Mohit yadav
 
-Website: Suvadipkar.com
-
-Facebook: http://facebook.com/suvadip.kar.96
-
-Twitter: https://twitter.com/KarSuvadip
-
-Bugcrowd: https://bugcrowd.com/Suvadipkar
-
-Video Link: https://youtu.be/VCkZzqTRmgs
+Website: mohitnasarpur.blogspot.com
 
 Rules:
 1. Dont use this tool to dos anyone.
