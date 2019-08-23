@@ -18,7 +18,7 @@ BRed='\033[1;31m'
 echo -e "${Cyan}+-------------------------------------------------------------------+${NC}"
 echo -e "${Cyan}|${NC}                      ${BGreen}[${NC}${BRed}          VDU DOS PANEL${NC}${BGreen}]${NC}                    ${Cyan}|${NC}"
 echo -e "${Cyan}|${NC}                                                                   ${Cyan}|${NC}"
-echo -e "${Cyan}|${NC}                                            | ${NC}${Yellow}Coder:${NC}${BGreen} Suvadip Kar${NC}${NC} | ${NC}${Cyan}|${NC}"
+echo -e "${Cyan}|${NC}                                            | ${NC}${Yellow}Coder:${NC}${BGreen} MOHIT YADAV${NC}${NC} | ${NC}${Cyan}|${NC}"
 echo -e "${Cyan}|${NC}                                            | ${Yellow}Version:${NC} ${BGreen}1.0${NC}       | ${Cyan}|${NC}"
 echo -e "${Cyan}+-${NC}${Green}[ Enter Your Choice ]${Cyan}---------------------------------------------${Cyan}+${NC}"
 echo -e "${Yellow}1. ${NC}SMS bomber"
@@ -35,9 +35,9 @@ callbomb(){
 
 
 if [ $pinu == 1 ]; then
-	echo "Enter The Phone Number"
+	echo "Enter The Phone Number ankit bhosdik"
 	read -p '[>>>]' no
-	echo "Enter The Number of times to Send SMS"
+	echo "Enter The Number of times to Send SMS mera paise de bhosdik ankit maderchod"
 	read -p '[>>>]' msg
 	 	for x in `seq 1 $msg`; do
 	 		smsbomb
@@ -45,7 +45,7 @@ if [ $pinu == 1 ]; then
 	 	done
 
 elif [ $pinu == 2 ]; then
-	echo "Enter The Phone Number"
+	echo "Enter The Phone Number ankit bitch"
 	read -p '[>>>]' no
 	echo "Enter the Number of times to call"
 	read -p '[>>>]' cal
